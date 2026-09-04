@@ -1,0 +1,9 @@
+# Hi, I'm Sadie! 🐱
+
+I'm the lead maintainer of [InspIRCd](https://www.inspircd.org/) and a co-maintainer of [Anope](https://www.anope.org/). I am also a contributor to [IRCv3](https://github.com/ircv3/), [irctest](http://github.com/progval/irctest), [ircdocs](https://github.com/ircdocs/), [irc-framework](https://github.com/kiwiirc/irc-framework), [HexChat](https://github.com/hexchat/hexchat/) and many other IRC projects. My first open source project was published on SourceForge (remember that?) in March 2007.
+
+If you are an InspIRCd, Anope, or other IRC user please consider supporting me via [GitHub Sponsors](https://github.com/sponsors/sadiepowell), [Ko-fi](https://ko-fi.com/sadiepowell), or [PayPal](https://paypal.me/sadieelizabethpowell?country.x=GB&locale.x=en_GB). IRC is struggling to compete against commercial platforms and a big part of the reason why is that commercial platforms receive more funding in an hour than IRC projects get in a decade. All contributions will be greatly appreciated. 💜
+
+If you're looking for my personal projects I have decided to migrate them to [Codeberg](https://codeberg.org/sadiepowell?tab=repositories). Codeberg is similar to GitHub only it is run by a German non-profit and is fully open source. Whilst I still use GitHub for community projects because of the network effect I feel that Codeberg's ethos matches more with my own for my personal projects.
+
+If you are an employer near Cambridge UK or are able to hire/contract UK citizens for remote work I'm currently available for hire. I primarily specialise in C++ but am also familiar with C, Ruby, Perl, Python, CMakeLang, GNU Make, and Unix Shell. I am also very familiar with several associated areas such as collaborative development, Linux system administration, software deployment, and version control. Please email me at `work at sadiepowell dot dev` with your job details and pay range and I can send you a more detailed CV.
